@@ -1,0 +1,1492 @@
+27 OCT 2020
+Total Hour:8 hour
+Project : Taxi_App
+---------- BUG Fixed -----------
+Admin Panel ==> 
+-- Add Driver : license bug fixed
+-- Cancelled Text  spelling Bug Fix 
+-- Undefined  variable :  on Dashboard  page Bug Fixed 
+-- Add taxi  : Approx time :  Add And update Approx time 
+-- Update Approx Spelling 
+-- Spelling of Third party  vehicle place Holder  
+--  Edit  Profile of manager and Admin Update Fixed  and  Fixed Redirect flow 
+--  Fixed  Add Address Bug 
+--  Update taxi  Booking Approx time update 
+-- Bug Fixed provide  by  Randal  and Anand 
+--  Code update on GIT 
+Next day : 
+  http://160.119.253.168/admin-login
+
+||||||||||||||||||||||||||||||||||||||
+
+28 OCT 2020
+Total Hour:8 hour
+Project : PeakPack
+---------- BUG Fixed -----------
+Pharmacy Panel ==> 
+-- Have fields move left to right, top to bottom
+-- When entering address, it only shows location and not street address.
+-- Be able to change their account access status. Ex: Active vs inactive
+-- When DD is selected, the location will be immediately set as safe.
+-- Change button to "submit" and move it to the middle and botton
+--  Edit  Technician   and  Update Technician 
+--  Edit Pharmacy 
+--  Code update on GIT 
+Next day : 
+  http://packnpeaks.tk/admin-login
+
+
+  ||||||||||||||||||||||||||||||||||
+
+  29 OCT 2020
+Total Hour:8 hour
+Project : PeakPack
+---------- BUG Fixed -----------
+Pharmacy Panel ==> 
+-- Quick  link  for Dashboard 
+-- Remove (+04) from Pharmacy Registration 
+-- Location Check Box In Add Patients 
+-- When DD is selected, the location will be immediately set as safe.
+-- Change Message  "This email will be use for pharmacy login also" 
+--  Last pickup date In Add Pickup 
+--  Code update on GIT 
+Next day : 
+  http://packnpeaks.tk/admin-login
+
+||||||||||||||||||||||||||||||||||||||
+30 OCT 2020
+Total Hour:8 hour
+Project : PeakPack
+---------------------
+Panel: Admin &  Pharmacy admin 
+-- patient Phone Format update
+--  Patient map Address Show Location Update 
+-- Location validation for Patient Location 
+--  Patient Import by Excel sheet 
+--  Create log Of All  pharmacy 
+--  update Side Bar menu 
+--  Edit Technician /  update Technician 
+--  code push on git
+
+Next day :
+-- Upload Project on server and Extract  it 
+|||||||||||||||||||||||||||||||||||||||||
+
+02 NOV 2020
+Total Hour:8 hour
+Project : PeakPack
+---------------------
+Panel: Admin
+-- 
+--  Add Multiple Pharmacy Admin 
+--  Location checkbox validation 
+--  Add Patient  By Excel  import
+--  Change date time format of  Date of  Birth  
+--  Create the Report of Log :  csv, pdf 
+--  Edit Technican /  update Technician (Pharmacy)
+--  code push on git
+
+Next day :
+-- Upload Project on server and Extract  it
+
+03 NOV 2020
+Total Hour:8 hour
+Project : PeakPack
+---------------------
+Panel: Admin
+-- 
+--  Add Multiple Pharmacy Admin 
+--  Location checkbox validation 
+--  Add Patient  By Excel  import
+--  Change date time format of  Date of  Birth  
+--  Create the Report of Log :  csv, pdf 
+--  Edit Technican /  update Technician (Pharmacy)
+--  code push on git
+
+Next day :
+-- Upload Project on server and Extract  it
+
+
+
+
+ 04  NOV 2020
+Total Hour:8 hour
+Project : PeakPack
+---------- BUG Fixed -----------
+Pharmacy Panel ==> 
+-- Quick  link  for Dashboard 
+-- Remove (+04) from Pharmacy Registration 
+-- Location Check Box In Add Patients 
+-- When DD is selected, the location will be immediately set as safe.
+-- Change Message  "This email will be use for pharmacy login also" 
+--  Last pickup date In Add Pickup 
+--  Code update on GIT 
+Next day : 
+  http://packnpeaks.tk/admin-login
+
+
+
+
+5 Nov 2020
+Total Hour:  6  hour
+Project : Fisheries 
+----------------------
+--  Project set up 
+-- SetUp With module (nwidart/laravel-modules)
+-- Swagger-integration
+--  create Auth Module 
+--  Create Auth Api 
+--  Code Push On Git 
+Next : 
+---
+Auth module 
+
+
+
+5 Nov 2020
+Total Hour:  2 hour
+Project : Pack Peak 
+----------------------
+-- File import validation 
+-- fixed  All Bug 
+
+
+https://docs.google.com/spreadsheets/d/1SY3GiwlPgufTT9EFOqM40US_uT7k7tkHTKihp6dSnpM/edit#gid=0
+
+https://docs.google.com/spreadsheets/d/1aqIESSqPpSpa7TDYaj258-FlQoopwNspAs5j9_cruK0/edit#gid=0
+--------------
+
+Swagger : 
+----------
+git hub link : https://github.com/zircote/swagger-php
+Youtube link= https://www.youtube.com/watch?v=3ZK7TsA8a9Q
+
+
+To Genrate Doc: 
+$ php artisan vendor:publish --provider "L5Swagger\L5SwaggerServiceProvider"
+$ php artisan l5-swagger:generate
+
+-> Pharmacy login : 
+->  all data by table Name: 
+------------------
+
+
+https://medium.com/@destinyajax/how-to-build-modular-applications-in-laravel-the-plug-n-play-approach-part-1-13a87f7de06
+https://medium.com/@destinyajax/how-to-build-modular-applications-in-laravel-the-plug-n-play-approach-part-2-c23e8089aeee
+
+
+http://localhost:8000/api/auth/register
+email:sanjeev@gmail.com
+password:12345678
+name:Pradeep
+c_password:12345678
+
+
+http://localhost:8000/api/auth/login
+email:sanjeev@gmail.com
+password:12345678
+
+
+http://localhost:8000/api/auth/password/create
+email:pk1105806@gmail.com
+
+
+
+
+
+
+http://160.119.253.168/
+admin@demo
+123456
+
+
+++++++++++++++++++++++++++++++++++
+
+Pack Peack
+---------------------------
+http://packnpeaks.tk/api/create_pharmacy
+
+
++++++++++++++++++++++++++++++++++++++++
+=========================================
+
+Authorization:Bearer mjgfskjdkbfdsvfjdsfhdsgjn
+
+
+
+
+
+
+
+
+
+http://packnpeaks.tk/api/create_pharmacy
+
+first_name:Harsh
+last_name:Kumar
+email:harsh@gmail.com
+password:12345678
+password_confirmation:12345678
+term:1
+company_name:guli
+host_name:guli
+phone:9878765676
+address:gomti  nagar Lucknow
+subscription:2
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+======================================================
+service providor :  with input 
+vihicle : model  : with input 
+---------------
+end time on the templte creating time 
+-----------------
+aprox strat ytime in the 24 houre
+---------------
+highlight : autocomplte :
+-------------------
+Inventory :: motiozation || barcode download 
+------------------
+return time : check calculate : 
+
+++++++++++++++++++++++++++++++++++
+=========================================
+
+9 Nov 2020
+Total Hour: 6 hour
+Project : Fisheries
+----------------------
+-- create reset password APi
+-- create auth module with login api
+-- create create Register Api  
+-- create auth module with user detail api
+-- Code Push On Git
+Next :
+---
+Auth module
+
+||||||||||||||||||||
+
+9 Nov 2020
+Total Hour: 2 hour
+Project : Pack-Peack
+----------------------
+-- Create Login Api :  create Token 
+-- Create Details  Api  
+-- Create Add Pharmacy Api  
+-- Text  -> Create Pharmacy Api 
+-- Code Push On Git
+
+|||||||||||||||||||||||||||||||||||||
+
+10 Nov 2020
+Total Hour: 8 hour
+Project : Fisheries
+----------------------
+-- passpword reset wiht email notification 
+-- project discussion with shailesh sir 
+-- Account management Module  Understanding with Anand sir   
+-- Create Master  Access  Controle  table  and  create multiple  
+   records of quality  controle Module 
+--  Role type  for Users  ..  Inprogress 
+-- Code Push On Git
+Next :
+---
+create role  type for All  type of users  
+
+
+
+Pravesh@3686
+
+
+http://122.163.176.14/
+Local FTP Details
+------------------
+host: 192.168.1.142
+Username: augurs
+Password: A#21il20CSK 
+------------------------
+
+http://192.168.1.142/phpmyadmin
+Username: Augurs
+Password: Augurs@9848
+
+
+http://packnpeaks.tk/admin-login
+
+admin@peaknpacks.tk
+12345678
+====================================
+numerical and Statical computing 
+Q-4. Determine the two equations of regression.
+================================
+Menu =>  Multilevel , laravel Menu
+----------
+https://stackoverflow.com/questions/21305111/how-to-create-a-database-driven-multi-level-navigation-menu-using-laravel
+
+
+------------
+12 Nov 2020
+Total Hour: 8 hour
+Project : Fisheries
+----------------------
+
+-- Discussed Account Management Module with Anand  and Siddhant sir.
+-- Design data base Structure for Account Management table 
+-- Design Table  Structure  of reference_country with Migration
+-- Design Table  Structure  of reference zone  with Migration
+-- Design Table  Structure  of reference_supplier with Migration
+-- Design Table  Structure  of reference_producer with Migration
+-- Design Table  Structure  of user_access with Migration
+-- Discussed databse Struture with Shailesh  sir 
+-- code update on the  GIT
+
+Next --
+-------
+Create master_Country  Table
+
+=========================================
+
+13 Nov 2020
+Total Hour: 8 hour
+Project : Fisheries
+----------------------
+
+-- create All  country  table 
+-- bind titlekey column  for all  country 
+-- bind titlekey  for  All  Access table 
+-- create relationship b/w country  and  reference_country
+-- create relationship b/w  reference zone and  reference_country
+-- create relationship b/w  reference_supplier  and  reference_country
+-- create relationship b/w  reference_supplier  and  reference_producer
+-- create relationship b/w  user_access  and  masterAccess Table 
+-- create Api  for User genral info page 
+-- create Country  table  Seeding ...
+-- code update on the  GIT
+
+Next --
+-------
+create Access  for  Users  
+
+
+17 Nov 2020
+Total Hour: 8 hour
+Project : Fisheries
+----------------------
+
+-- Upload Project on the server 
+-- Php Version ->  update Resolve  
+-- Fixed  All Server Error For Auth  Module 
+-- Check  Auth  Api  on server 
+-- update Country  name_Key for Seed  
+-- create Api  for User genral info page 
+-- create Country  table  Updated 
+-- code update on the  GIT
+
+Next --
+-------
+create Access  for  Users  
+
+
+
+
+7897707878 airtel
+49
+
+AccountManagement Api Details :
+------------
+All Access master
+General Info
+Basic Info
+
+
+18 Nov 2020
+Total Hour: 8 hour
+Project : Fisheries
+----------------------
+
+-- Update code on the server 
+-- Check All_master Access data
+-- create All master Access Api   
+-- Api of Basic Info 
+-- upload Logo into  the Basic info Api
+-- Api  for the  Genral Info 
+-- Create reference Country for User 
+-- create Reference Supplier For User ,  Producer for Suplier 
+-- Fishing Zone  for reference country  
+-- Check  Account Management  Api  on server 
+-- code update on the  GIT
+
+Next --
+-------
+Account Management :  Access Api 
+
+||||||||||||||||||||||||||||
+
+19 Nov 2020
+Total Hour: 8 hour
+Project : Fisheries
+----------------------
+
+-- update Register Api 
+-- update login Api 
+-- Create All countries Api    
+-- Create AllAccessMaster Api 
+-- GetAllAccess of User Api 
+-- Update get Genral info  Api 
+-- create Reference Supplier with  reference Country Table 
+-- code update on the  GIT
+
+Next --
+-------
+Account Management :  Access Api 
+
+|||||||||||||||||||||
+
+20 Nov 2020
+Total Hour: 8 hour
+Project : Fisheries
+----------------------
+
+-- Update On Get Access Api  
+-- Update On The Updategeneral Info Api 
+-- Create All Suppliers Api    
+-- Create All Producres Api  
+-- Create 'Update Access Api'
+-- Update ger Genral Info Api  
+-- Multiple Producres in the Multiple Suppliers : create SubQuery  
+-- Code update on the  Git
+
+Next --
+-------
+Account Management :  Customization Api 
+
+|||||||||||||||||||||||||||||||||||||||
+Srooj jio : 9555105939
+|||||||||||||||||||||||||||
+
+23 Nov 2020
+Total Hour: 8 hour
+Project : Fisheries
+----------------------
+
+-- group dicussion with shailesh sir
+-- create database for customization structure
+-- create database for Specification and sop structure
+-- create customization -> all table  with controller
+-- create  Specification and sop -> all table  with controller
+-- create relationship in the tables 
+-- get customization api                ..... pending
+-- Code update on the  Git
+
+Next --
+-------
+Account Management :  Customization Api 
+
+
+|||||||||||||||||||||||||||||||||||||||
+
+24 Nov 2020
+Total Hour: 8 hour
+Project : FisheriesQA
+----------------------
+
+-- dicussion with Siddhant 
+-- relationship with userDiscrepancy and All Discrepancy
+-- relationship with userDiscrepancy and userSettings
+-- Create Migration of the All Discrepancy  tables
+-- update the UpdateGenralInfo Api 
+-- Update get Access Api 
+-- Get Customization Api 
+-- Code update on the  Git
+
+Next --
+-------
+Account Management :  update Customization Api 
+
+
+https://www.codechief.org/article/category/language
+
+||||||||||||||||||||||||||||||||||||||||||||||
+
+25 Nov 2020
+Total Hour: 8 hour
+Project : FisheriesQA
+----------------------
+
+-- dicussion with Team 
+-- create All leaders  api 
+-- create getCustomization Api 
+-- create updateCutomization Api  
+-- update the UpdateGenralInfo Api 
+-- Update get Access Api 
+-- updateget Access  Api 
+-- Code update on the  Git
+
+Next --
+-------
+Account Management :  SOP Api 
+||||||||||||||||||||||||||||||||||||||||||
+26 Nov 2020
+Total Hour: 8 hour
+Project : FisheriesQA
+----------------------
+
+-- update the Cutomization  api 
+--  update the getCustomization api  
+-- create Microbiological Criteria :  table,  migration 
+-- create Chemical Criteria :  table , migration  
+-- create heavy  meals  table and migration 
+-- create getSOP Api   
+-- update Sop  Api  details
+-- Code update on the  Git
+
+Next --
+-------
+Account Management : update Sop api  SOP Api 
+-- api update on the  server 
+
+|||||||||||||||||||||||||||||||||
+
+
+27 Nov 2020
+Total Hour: 8 hour
+Project : Pack & Peak
+----------------------
+
+--  Create new Pharmacy -  Error  Fixed 
+--  Fixed  Phone No Error For All  Form 
+--  Fixed  Pdf Report  Error  
+--  Change Password  of  Pharmacy Erroe  Fixed 
+--  Add App Logout Time 
+--  Add Default Cycle for All  Patients
+--  Add Pin for All  Pharmacy
+--  Edit Pharmacy And Technician Profile With Pint Edit Also 
+--  Sheet Bug Fixed 
+--  Code update on the  Git
+
+Next --
+-------
+Add Patients  : Form Design With  Steev Sir 
+  
+
+||||||||||||||||||||||||||||||||
+
+28 Nov 2020
+Total Hour: 8 hour
+Project : Pack & Peak
+----------------------
+
+--  Form Permission for Pharmacy  
+--  Set Active And Deactive  Status for Technician 
+--  On Pickup calender  count All Pickup
+--  first pickup  not  for patient Note 
+--  below to 18 year Patient Warning 
+--  Add Error  type label on the nearmisss
+--  Add Pin for All  Pharmacy
+--  other  fields  for Near miss 
+--  Sheet Bug Fixed 
+--  Code update on the  Git
+
+Next --
+-------
+Add Patients  :all  bug fixed of sheet 
+
+|||||||||||||||||||||
+
+Leave on the 30 Nov 2020
+|||||||||||||||||||||||||||||||
+
+01 DEC 2020
+Total Hour: 8 hour
+Project : FishieriesQA
+----------------------
+
+--  Add Multiple Specification  SOP Files 
+--  Update the Multiple Specification Files 
+--  Update The Master Discrepancies  Table Schema 
+--  create Master table Schema For Sardine SPEC 
+--  Change the User Specification Table SChema 
+--  update  the Relationship  with  Master Specification Table 
+--  Update "Update Customization"  Api 
+--  update the  Offset Value  for  Min Max Cut  type  
+--  Code update on the  Git
+
+Next --
+-------
+Update  SOP Api  
+
+SELECT M.*, D.id FROM `master_discrepancies` M left join (select * FROM user_discrepancies WHERE user_id=1) D on M.id=D.discrepancy_id
+
+---------------------------------------
+02 DEC 2020
+Total Hour: 8 hour
+Project : FishieriesQA
+----------------------
+
+--  Add Discrepancies Api  for Discrepancies Master
+--  Update Discrepancies for Customization 
+--  update get Customization 
+--  create Master Specification  
+--  update Requested  items for Customization
+--  Update the UpdateSpecification api  
+--  get Specification api 
+--  set  relationship with  master Specification table 
+--  Code update on the  Git
+
+Next --
+-------
+multiple Sop file update  
+
+
+|||||||||||||||||||||||||||||||||||||
+
+====  Type =====
+1->'internal'
+2->'external'
+
+=====  Fishing type =======
+0 -> contract with  boat 
+1 -> Boat owner
+
+======Role-====
+'admin','supplier','producer','supplier_producer','inspector','new_user','other'
+1         2             3         4                   5           6        7 
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+temperature_ckeck_reminder_timescale
+--------------------
+1=>every day,
+2=>every Week,
+3=>every 2 days,
+4=>Every 2 week,
+5=>every 4 days,
+6=>every 3 week
+7=>other
+
+minimum_temperature
+----------
+1=>-23 C, 
+2=>-24 C,
+3=>25 C
+4=>other 
+
+continuous_freezing
+--------------
+1=>15 Min,
+2=>30 min,
+3=>45 min,
+4=> 1 hour
+5=> other
+
+length_width_detribution
+----------
+1=>yes
+0=>No
+
+|||||||||||||||||||||||||||||||||||||||||
+
+SELECT D.id,D.user_id,M.id as spec_id,M.cut_type,M.min_cut_length,M.max_cut_length,M.min_cut_weight,M.max_cut_weight,D.min_cut_length_offset,D.max_cut_length_offset,D.min_cut_weight_offset,D.max_cut_weight_offset D.created_at,D.updated_at as new_idd FROM `master_specs` M left join (select * FROM `user_specifications` WHERE user_id=1) D on M.id=D.spec_id
+
+
+SELECT D.id,D.user_id,M.id as spec_id, M.cut_type, D.created_at,D.updated_at FROM master_specs M left join (select * FROM user_specifications WHERE user_id=1) D on M.id=D.spec_id
+
+SELECT D.id,D.user_id,M.id as spec_id,M.cut_type,M.min_cut_length,M.max_cut_length,M.min_cut_weight,M.max_cut_weight,D.min_cut_length_offset,D.max_cut_length_offset,D.min_cut_weight_offset,D.max_cut_weight_offset D.created_at,D.updated_at  FROM master_specs M left join (select * FROM user_specifications WHERE user_id=1) D on M.id=D.spec_id
+
+
+delete zone
+update zone
+
+delete  Supplier
+update supplier 
+
+delete user Discrepancies
+update user discrepancies
+
+delete master Discrepancies
+update master discrepancies
+
+Delete user Specification file 
+
+All users list Without Admin    
+
+Master =>  soft delete
+User => Hard delete 
+
+
+
+hgt_fish_cut[]
+hg_fish_cut[]
+sop_file[]
+
+
+http://122.163.176.14/FisheriesQA/storage/app/documents/
+
+GET /api/books : to return a list of all the books
+GET /api/books/{id} : to return details of a particular book by ID
+POST /api/books : to create a new book
+PUT /api/books/{id} : to update details of a book by iD
+DELETE /api/books/{id} : to delete a book by ID
+
+
+|||||||||||||||||||||||||||||||||||||||
+
+
+04 DEC 2020
+Total Hour: 8 hour
+Project : FishieriesQA
+----------------------
+
+--  create delete zone Api 
+--  Create update zone api 
+--  Create delete  Supplier
+--  Create update supplier 
+--  Create delete user Discrepancies
+--  Create update user discrepancies
+--  Create delete master Discrepancies
+--  Create update master discrepancies
+--  Create Delete user Specification file 
+--  Create All users list Without Admin 
+-- Master Table  data =>  soft delete
+-- User`s Table  => Hard delete 
+--  Create File uploadTable  Structure for file upload 
+--  Create File Uploads  APi 
+--  update getSOP Api  
+--  Update "UpdateSop" Api 
+--  Code update on the  Git
+
+Next --
+-------
+All get  methods Update 
+
+
+
+
+
+
+edit profile :
+---------------
+-- get pro prile api
+-- update profile
+---------------------
+
+https://stackoverflow.com/questions/26441735/radio-box-get-the-checked-value-icheck
+
+-----------------------------
+
+07 DEC 2020
+Total Hour: 4 hour
+Project : FishieriesQA
+----------------------
+--  All  users List Api 
+--  update Fishing type and Specify  value 
+--  create delete zone Api 
+--  Create update zone api 
+--  Create delete  Supplier
+--  Create update supplier 
+--  Group discussion with  Shailesh  sir  
+--  Code update on the  Git
+
+Next --
+-------
+--  update "Update Sop  Api " 
+All get  methods Update 
+------------------------------------
+Total Hour: 4 hour
+Project : Pack&Peack
+----------------------
+--  Add Error  type On Add near Miss 
+--  Technician Active Or Inactive Status
+--  Add Patient Age validation if  Age < 18  
+--  All  Pick up  of  current Month on Pickup Calender 
+--  Near Miss Other  Box with  input Field
+--  Add Pickup LastPickup date and No of LastWeak
+--  Last "note from patient" Value for Every  Patient 
+--  Code update on the  Git
+
+Next --
+-------
+--  fixed  All  Bug  of  Pack and peack 
+
+
+
+SELECT US.id,US.user_id,US.spec_type,MS.id as spec_id ,MS.cut_type,MS.min_cut_length,MS.max_cut_length,MS.min_cut_weight,MS.max_cut_weight,US.min_cut_length_offset,US.max_cut_length_offset,US.min_cut_weight_offset,US.max_cut_weight_offset,US.created_at,US.updated_at FROM `master_specs` MS left join (select * FROM user_specifications WHERE user_specifications.spec_type=1 and user_specifications.user_id=1 ) US on MS.id =US.spec_id
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+08 DEC 2020
+Total Hour: 8 hour
+Project : FishieriesQA
+----------------------
+--  users Profile Api 
+--  check  Api  token is valid  or not 
+--  get Details of valid toekn users
+--  Sop data from master table and user table
+--  data bind for "length width  specification "
+--  invalid token responce  Fixed 
+--  update get sop  Api 
+--  Create delete  Supplier
+--  Create update supplier
+--  Group discussion with  Shailesh  sir  
+--  Code update on the  Git
+
+Next --
+-------
+--  update on server "Update Sop  Api" 
+|||||||||||||||||||||||||||||||||||||||||||||
+09 DEC 2020
+Total Hour: 8 hour
+Project : FishieriesQA
+----------------------
+--  Update Sop  Api Details
+--  Sop  Api update on server 
+--  implement Swagger Doc for login 
+--  Swagger notation for Create Token  
+--  Swagger notation for Find Token
+--  Swagger notation for Reset Password
+--  create Audit table model migration
+--  update "update genral info  with  Audits information"
+--  update getgenral info 
+--  Group discussion with  Shailesh  sir  
+--  Code update on the  Git
+
+Next --
+-------
+--  get and update Audits Api on server 
+--  create  Swagger notation of all  Api  
++++++++++++++++++++++++++++++++++++++++++++
+=====================================================================
+
+10 DEC 2020
+Total Hour: 6 hour
+Project : FishieriesQA
+----------------------
+-- Update Audit Information Api of genral Info 
+-- Upload on server  and test Audit Api 
+-- create Add  SpecType Api 
+-- Create getSpecType Api 
+--  Create Update SpecType Api 
+--  Delete SpecType Api 
+--  SpecType All  Api  upload On server  And test  it
+Next=>
+--------------------
+  --  --  create  Swagger notation of all  Api  
+  --  Api trsting And Updation 
+  
+Total Hour: 2 hour
+Project : PackPeak
+----------------------
+--  Add Near Miss Error type for Pharmacy 
+--  All Report Style for PDF View 
+--- PackPeack Wrong Text 
+--  Web page Refresh Form Data Remove Bug Fixed
+--  Create UpdateMobileApplogout Api 
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+11 DEC 2020
+Total Hour: 6 hour
+Project : FishieriesQA
+----------------------
+-- update SignIn Api with  Email 
+-- update getgenral info Api 
+-- create  Swagger Doc for getBasicInfo
+-- create Swagger Doc for upadate Basic info 
+-- create Swagger doc for getgenral info  
+-- Update swagger doc for reset password 
+-- code push on git 
+-- api upload On server  And test  it
+Next=>
+--------------------
+  --  --  create  Swagger notation of all  Api 
+  http://122.163.176.14/FisheriesQA/api/documentation
+
+Total Hour: 0.5 hour
+Project : PackPeak
+--------------
+ -- create Api of get AppSession time out time 
+
+Total Hour: 1.5 hour
+Project : taxi
+----------------------
+--  Slide 1: made amd model  Editable fields
+--  Slide 3: delete vehicle 
+--  Slide 4: Owner Phone No Not Required
+--  Slide 5:Phone no With  country and Email not required 
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+12 DEC 2020
+Total Hour: 6 hour
+Project : Taxi
+----------------------
+-- Slide Update For third  Part y Vehicle 
+-- Add Inventory invoice Attachment not Required
+--  For Add Flight  Set  24 hour  Time Format  and Edit page  Also 
+--  Air Transport Service Provider data list Added 
+--  Set  Auto  Belitung Map for Address And Edit  Address 
+--  Set  Auto  Belitung Map for Add Pickup/Drop Point  And Edit  Pickup/Drop Point
+-- Add Arrival time And  Add Departure for Flight 
+-- Add Arrival time And  Add Departure for Edit Flight 
+-- code push on git 
+
+Next=>
+--------------------
+  --  --  Financial Achievement data Auto fill by  Excel Sheet 
+
+Total Hour: 6 hour
+Project : PackPeak
+----------------------
+--  set Default cycle  Null  for Creating Pharmacy 
+--  fix create Pharmacy with  Space 
+--  Fixed :  When clicking on same as above while adding patient
+--  Fixed :  Pick up buttons :  center  and Submit 
+--  Fixed :  Confirmation below 18 for Add  patient and Edit  Patient 
+--  Fixed :  When keeping location or who is picking up field null whole page gets refreshed in add pick up
+--  Fixed :  On editing technician we are getting a sql error
+--  Fixed :  Add Notes for patient button should be in center
+--  For  Any report  get info Modal updated  
+ --  Code  update on the git 
+Next =>
+--  select Patient with  searchable bar  for all  form 
+--  select Career option  Automatic for old patient pickup   
+
+||||||||||||||||||||||||||||||||||||||||||||||||
+
+14 DEC 2020
+Total Hour: 8 hour
+Project : PackPeak
+----------------------
+##Super Admin ## 
+------------------
+--  Patient Select With  Searchable 
+        --  In All  Add Form And Edit Form 
+--- 6 month  Compliance Report  enable
+--  All  compliance Report enable 
+--  Enable last month report Near Miss 
+--  Enable monthly report for Near Miss 
+--  For Checking  Save Location in the table and update Checking with id 
+--  Save/update location id for "Add Patient" and "Edit patient "
+--  Details of All report "infoButton" Bug Fixed  
+# Pharmacy Admin #
+-------------------
+--  Patient Select With  Searchable 
+        --  In All  Add Form And Edit Form 
+--- 6 month  Compliance Report  enable
+--  All  compliance Report enable 
+--  Enable last month report Near Miss 
+--  Enable monthly report for Near Miss 
+ --  Code  update on the git 
+Next =>
+--  Futute Pickup  and  Missed Pickup for Calender  
+
+
+||||||||||||||||||||||||||||||||||||||||||||
+
+Designer : 
+date : can not type future date in datepicker 
+patient Name :  fields not Responsive with Shadow
+DD: when dd checked:  safe location automatically  selected  
+
+Latest Points ->
+###################################################################
+---------------------------------------------------------
+
+
+pickup:
+------------
+Location Auto checked for Pickup (Patient)
+time stamp for "Note For Patient "
+Who is picking up auto select 
+
+
+
+Patient :
+----------
+On Same Name patient creation  confirm  box diosplay :: Name:last_name:dob 
+1) Logout Time not update
+2)  dd  checked
+#) Pharmacy Admin Can Change : the App session out time and default_cycle and profile 
+#) Patient  Add With a Deafult Cycle time 
+#) Change Calender month and Change the Number of Pickup 
+#  Technician Status Not Update to  Route May be Error 
+#) Minimum 3 digit for other of near miss 
+#) two  Mobile no  for Add Patient  
+
+
+
+use App\Models\Admin\Location;
+$data['all_Location'] = Location::get();
+
+
+$('input:checkbox').parent().removeClass("checked");
+
+$('input:checkbox').parent().addClass("checked");
+$('input[type=checkbox][value=3]').parent().addClass("checked");
+
+app_logout_time
+app_logout_time
+
+
+
+15 DEC 2020
+Total Hour: 8 hour
+Project : PackPeak
+----------------------
+##Super Admin ##
+------------------
+-- Add Location id for Add Pickup
+-- Add Location id for Update Pickup
+-- Add Location id for Add Patient 
+-- Add Location id for Update Patient
+-- Location id for Checking and Update checking
+-- update text of Mobile of patient
+-- update notification settings
+# Pharmacy Admin #
+-------------------
+-- Add Location id for Add Pickup
+-- Add Location id for Update Pickup
+-- Add Location id for Add Patient
+-- Add Location id for Update Patient
+-- Location id for Checking and Update checking
+-- update text of Mobile of patient
+
+-- App session Logout Update Fixed
+-- Update on git
+
+Next =>
+-- Future Pickup and Missed Pickup for Calendar 
+
+||||||||||||||||||||||||||||||||||||||||||
+
+
+16 DEC 2020
+Total Hour: 8 hour
+Project : PackPeak
+----------------------
+##Pharmacy Admin ##
+------------------
+Pharmacy and technician can chnage Password
+Pharmacy and technician can Update Profile
+Pharmacy can Update App Session Time Out time 
+Pharmacy can Update defaultCycle 
+
+23.Facility 
+Patient and Pick Up calender option should not be there if its off
+21.Date stamp in notes for patient
+20.Auto saved location and who is picking up
+3. Monthly generation only. Also want the 6 month option.
+18.TECHNICIAN SHOULD BE ADDED
+13:Checking: When DD is selected, the location will be immediately set as safe.
+9.Add Pickups: Who is picking up? "When an option is selected, no colour shows.
+7.All Technician:Be able to change their account access status. Ex: Active vs inactive
+
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+--  store table for  store 
+
+|||||||||||||||||||||||||||||||||||||||||||
+
+pin,
+user
+create _tection :
+technician create time :  set  pin,
+app session out time update only  by  admin  
+pin update 
+password update
+Store table Update : and discuss to Vaibhav 
+calender, patient remove from dashbord 
+url cant not be accessiable for any  technician user 
+date Format  DD/MM/YYY 
+------------------------------------
+
+
+|||||||||||||||||||||||||||||||\
+
+17 DEC 2020
+Total Hour: 8 hour
+Project : PackPeak
+----------------------
+##Pharmacy Admin ##
+------------------
+Add Technician use  default pin of  his Pharmacy
+Technician update default pin 
+create Store Table for Add Return 
+set  Store id for update Return 
+Set  Store id for Add  Audit 
+update Store id for update Audit  
+
+##Supper Admin ##
+Add Technician use  default pin of  his Pharmacy
+update Technician update default pin 
+create Store Table for Add Return 
+Store id for update Return 
+Add  Audit  with new  store  data 
+update Audit   with  store  id 
+
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||\
+
+
+
+18 DEC 2020
+Total Hour: 8 hour
+Project : PackPeak
+----------------------
+##Pharmacy Admin ## 
+------------------
+facility add with  input  and select 
+update   add new (input ) and select to  dropdown 
+set "secondary number"  option for add Patient 
+update "secondary number" for Patient 
+confirmation for duplicate Patient name dob last name 
+
+##Supper Admin ##
+checking View  info dateformat fixed 
+facility add with  input  and select 
+update   add new (input ) and select to  dropdown 
+set "secondary number"  option for add Patient 
+update "secondary number" for Patient 
+
+code  update on the GIT 
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+---  Required Field set 
+--  create Log 
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+run any  query wit h website id ,
+update pofile,
+pinchange  api ,
+
+
+
+
+
+
+
+
+
+
+1.Required fields
+
+5.Logs:Ability to view the access logs of stores, pharmacists & technicians. The use case for this would be to view and manage access logs of anyone using all instances of the applicaiton.
+
+14:Pick up Calendar:View patients due in a specific week with yellow dot. Calculating from last time pick up. If the patient picks up then recalculate for next pick up.
+
+SMS for  twilioo 
+
+8.Pick up calendar:Pick up total will show on the bottom right and will calculate the number of unique pick ups per patient
+name dob  and last name validate patient for add patient 
+
+Admin wants to be able to easily see who did not pick up for specific months(Pradeep sir needs to discuss with  Rishabh sir)
+
+15.Navigation :"Current input fields navigate from top to bottom, then left to right, when a user hits tab. It should be Left to Right, then Top to Bottom"
+
+
+
+
+21 DEC 2020
+Total Hour: 6 hour
+Project : Taxi
+----------------------
+-- for Search map location : set specific  City  and Country 
+--  onkey up  set  City  and Country 
+-- Add  Vehicle set  Pricing :  info :  Full value, Martization value , 
+--  for Update Vehicle set  Full value, Martization value ,  
+--  owner  phone Number  shuld not  mandatory  :  fixed 
+--  for pickup  and Drop set  Map specific :  City and country 
+--  code  update on the GIT  
+
+
+Total Hour: 2 hour
+Project : Pack Peack
+##Supper Admin ##
+-- set "secondary number"  option for add Patient 
+-- update "secondary number" for Patient 
+-- add Patient  By  ajax  and set  Alert  for Same name Patient 
+-- code  update on the GIT 
+
+-- Set  up of sale quick Project 
+
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+---  Required Field set 
+--  create Log 
+
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||
+
+22 DEC 2020
+Total Hour: 6 hour
+Project : Pack Peack
+----------------------
+##Supper Admin && Pharmacy admin ##
+-- updated code upload on server 
+-- test last fixed bug 
+-- icheck  reset after  patient  add ajax 
+--  get  last  pick up of  any  patient 
+-- create next  Pickup  date of  every  patient 
+-- create 50  Next pickup  date of every  patient 
+-- all  next  pickup  show on calendar  with  yellow color 
+
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+---  Required Field set 
+--  create Log 
+
+Total Hour:2 hour
+Project : Pack Peack
+--------------------
+--  upload on server  
+--  chnage url : remove public  
+--    set auto end time  on "create tour template" 
+--  update auto end time  on "create tour template" 
+--  test  fixed  Bug 
+--  code  update on the GIT  
+|||||||||||||||||||||||||||||||||||
+
+
+
+
+23 DEC 2020
+Total Hour: 8 hour
+Project : Pack Peack
+----------------------
+##Supper Admin && Pharmacy admin ##
+-- location auto select form  latest records of (patient and checking and picup )
+-- note from patient auto  select  from  latest records of "Note for patient" 
+-- chnage checking dd  check  safe update
+-- update drop down of all patient 
+-- clear the live database 
+-- change the date  format 
+-- remove SMS Tracking  from Subscription settings and Subscription of Pharmacy 
+-- remove cities from  map searching dat result 
+-- remove  pickup calendar menu form Supper  admin 
+-- create api  for All database : table records fetch  with  login api 
+
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+---  Required Field set 
+--  create Log 
+--  code  update on the GIT  
+
+1) Auto select  store in the "Return" and "Audit" 
+2) change password => old password and new password  would not be same 
+3) set limit of technician and pharmacy admin limit 
+4) details of the  next pickup calendar and pickup  calendar 
+5)  check  sms of note for patient 
+6 )  number  of week set on next pickup  on calendar  
+7)   api  for any query  run like  update and insert 
+8 )  update profile api of  technician
+
+
+
+EventsLogs:
+---------------
+
+website_id
+action_by
+action ->  enum create,update,delete
+action_detail:  technician , pickup 
+comment 
+status 
+
+
+
+400 Bad Request — Client sent an invalid request — such as lacking required request body or parameter
+401 Unauthorized — Client failed to authenticate with the server
+403 Forbidden — Client authenticated but does not have permission to access the requested resource
+404 Not Found — The requested resource does not exist
+412 Precondition Failed — One or more conditions in the request header fields evaluated to false
+500 Internal Server Error — A generic error occurred on the server
+503 Service Unavailable — The requested service is not available
+
+|||||||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||||||||||\
+
+24 DEC 2020
+Total Hour: 8 hour
+Project : Pack Peack
+----------------------
+##craete api  ##
+-- create Patient technician Api 
+-- create Pharmacy Admin Api 
+-- create Patient Api 
+-- create Pickup Api 
+-- create Checking  Api 
+-- create Return  Api 
+-- create Audit  Api 
+-- create Note For Patient APi
+-- create Near Miss Api 
+--  get data by Table Name
+--  get  all  data by  table name and B/W Two date 
+-- code push on git 
+
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+---  Required Field set 
+--  create Log 
+
+|||||||||||||||||||||||'
+
+
+25 DEC 2020
+Total Hour: 8 hour
+Project : Pack Peack
+----------------------
+##craete api  ##
+-- create  api  for Patient wise all table records 
+-- create api  for Patient wise with  between two date 
+
+-- update all  api on server 
+-- test  all api in the  live server 
+-- Admin Validation :
+    --  "patient" Add And Edit Validation
+    -- "Pickup" Add And Edit Validation
+    -- "checking"  Add And Edit Validation
+    -- "return" Add And Edit Validation
+    --  "audit"  Add And Edit Validation
+    -- "note  for patient" Add And Edit Validation
+--  Pharmacy Admin  Validation 
+    --  "patient" Add And Edit Validation
+    -- "Pickup" Add And Edit Validation
+
+-- code push on git 
+
+Next  => 
+--  all  validation for Pharmacy admin 
+--  Future  Pickup  and missed  pickup details 
+---  Required Field set 
+--  create Log 
+
+|||||||||||||||||||||||||||||||
+
+
+26 DEC 2020
+Total Hour: 8 hour
+Project : Pack Peack
+----------------------
+##Pharmacy admin and Super Admin ##
+-- update All Select2 css for patient dropdown all pages  
+-- update required  fields  for  Audit 
+-- update required  fields  for  Return 
+-- update required  fields  for  Note for  patient  
+-- update required  fields  for  Checking 
+--  pickup  calendar  number of Pickup  total  for every  month 
+--  code update on the  server 
+-- code push on git 
+
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+--  signature required
+--  create Log 
+
+|||||||||||||||||||||||||||||||||||||\
+
+
+
+28 DEC 2020
+Total Hour: 8 hour
+Project : Pack Peack
+----------------------
+##Pharmacy admin and Super Admin ##
+-- create api  for  any  query  run with  with website id 
+-- create api  for pinchange of Pharmacy 
+-- create api  for update profile of pharmacy 
+-- update login api  for  Patient details of  Patient_ID 
+-- update All records Api   for  Patient details of  Patient_ID 
+
+-- full calendar  more events option 
+--  remove link of sms tracking ,  6 month , monthly 
+--  date of birth  for readonly  for Note for Patient, return ,  Pickup 
+--  pickup  location  Flow  change  Pharmacy  admin and Supper  Admin 
+--  dd check  flow update of safe 
+--  signature required bug fixed 
+--  code update on the  server 
+-- code push on git 
+
+Next  => 
+--  Future  Pickup  and missed  pickup details 
+--  create Log 
+
+
+|||||||||||||||||||||||||||||
+
+29 DEC 2020
+Total Hour: 8 hour
+Project : Pack Peack
+----------------------
+-- logs of the  Pharmacy  admin all  form
+-- set  limit for Add Technician in pharmacy Panel 
+-- set  limit for Add Technician in Super Admin
+-- Set Limit  for  Add Admin in pharmacy Panel 
+-- set  limit for  Ad Admin in Super Admin panel 
+
+-- Add New column  Username in Add  technician in Super admin 
+-- pharmacy  admin  : Add New column  Username in Add  technician 
+
+-- update Api  for  Facility  
+-- update Api for  Store 
+-- set  log of Super  admin panel 
+	    -- pickup  
+	    -- checking 
+	    --  near miss 
+	    -- return audit 
+	    -- note for Patient 
+	    -- Login logout 
+Next  => 
+-- csv  import validation 
+-- update profile 
+-- pharmacy  admin can not delete their account 
+
+|||||||||||||||||||||||||||||||||||||||||||||
+
+30 DEC 2020
+Total Hour: 8 hour
+Project : Pack Peack
+----------------------
+-- update the username of  logs in Logs list 
+-- password encript /decript search for  Authentication
+-- reset  remove  from return and Audit return 
+-- reset  remove from Audit 
+-- patient location update 
+-- create login logout of  Super admin log 
+--  create Api  for  All records  
+          --  save patient 
+          --  save pickup 
+          --  save return
+          --  save audit 
+          --  save near miss
+          --  save checking 
+          --  note for patient 
+
+Next  => 
+-- csv  import validation 
+-- update profile 
+-- pharmacy  admin can not delete their account 
+
+
+
+
+
+
+ 
+
